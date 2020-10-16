@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>showcase on Hugo tranquilpeak theme</title>
-    <link>https://PHD-wang.github.io/categories/showcase/</link>
+    <link>https://phd-wang.github.io/categories/showcase/</link>
     <description>Recent content in showcase on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://PHD-wang.github.io/categories/showcase/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phd-wang.github.io/categories/showcase/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resources of bioinformatic learning</title>
-      <link>https://PHD-wang.github.io/2020/10/who-is-using-tranquilpeak-hugo-theme/</link>
+      <link>https://phd-wang.github.io/2020/10/who-is-using-tranquilpeak-hugo-theme/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://PHD-wang.github.io/2020/10/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <guid>https://phd-wang.github.io/2020/10/who-is-using-tranquilpeak-hugo-theme/</guid>
       <description></description>
     </item>
     
